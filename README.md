@@ -11,7 +11,7 @@
 
 3)METRICS OF THE PROJECT
 
-    Model accuracy for SVM: 0.77 (or) 77.0344
+    Model accuracy for CNN: 77.0344%
 
 4)METRICS
     The calculated metric terms are
